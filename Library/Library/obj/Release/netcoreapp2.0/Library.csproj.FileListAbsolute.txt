@@ -1,0 +1,11 @@
+C:\Users\eduardo.pontes\mvc\Library\Library\bin\Release\netcoreapp2.0\Library.deps.json
+C:\Users\eduardo.pontes\mvc\Library\Library\bin\Release\netcoreapp2.0\Library.runtimeconfig.json
+C:\Users\eduardo.pontes\mvc\Library\Library\bin\Release\netcoreapp2.0\Library.runtimeconfig.dev.json
+C:\Users\eduardo.pontes\mvc\Library\Library\bin\Release\netcoreapp2.0\Library.dll
+C:\Users\eduardo.pontes\mvc\Library\Library\bin\Release\netcoreapp2.0\Library.pdb
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.AssemblyInfoInputs.cache
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.AssemblyInfo.cs
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.dll
+C:\Users\eduardo.pontes\mvc\Library\Library\obj\Release\netcoreapp2.0\Library.pdb
